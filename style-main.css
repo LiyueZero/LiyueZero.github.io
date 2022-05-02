@@ -1,6 +1,7 @@
 body
 {
     background: url(./bg/mac/1.jpg) center center;
+    background-color: aqua;
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
@@ -9,4 +10,13 @@ body
 	background-repeat:repeat;
 	background-attachment:fixed;
 	/* overflow:scroll; */
+}
+
+.One
+{
+    background:rgba(255,255,255,0.6);
+    font-family: 'Aa宫廷奶酪体 (非商业使用)','方正硬笔楷书简体';
+    border-radius: 10px;
+    height: 110px;
+    width: 300px;
 }
