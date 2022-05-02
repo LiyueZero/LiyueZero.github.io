@@ -1,0 +1,12 @@
+body
+{
+    background: url(./bg/mac/1.jpg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-position: center 0;
+	background-repeat:repeat;
+	background-attachment:fixed;
+	/* overflow:scroll; */
+}
