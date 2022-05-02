@@ -20,3 +20,11 @@ body
     height: 110px;
     width: 300px;
 }
+
+@font-face {
+	font-family: 'Aa宫廷奶酪体 (非商业使用)';
+	src: url(./font/Font.woff) format("woff");
+	font-weight: 400;
+	font-display: "auto";
+	font-style: normal
+}
